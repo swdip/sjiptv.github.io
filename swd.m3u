@@ -1,5 +1,27 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1
 http://39.135.36.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
-#EXTINF:-1 ,CCTV2
-http://39.135.36.150:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf
+#EXTINF:-1 ,厦门卫视
+http://cstvpull.live.wscdns.com/live/xiamen4.flv
+#EXTINF:-1 ,常州武进区
+http://live.wjyanghu.com/live/CH2.m3u8
+#EXTINF:-1 ,TVB星河
+http://pili-live-hdl.qhmywl.com/dsdtv/e70f35708baededbbd1d0963f76981a1.flv
+#EXTINF:-1 ,新加坡亚洲新闻台
+http://pili-live-hdl.qhmywl.com/dsdtv/1aab6cf57296bdefc6f4bea94702782a.flv
+#EXTINF:-1 ,济南少儿
+http://ts2.ijntv.cn/jnse/sd1/live.m3u8
+#EXTINF:-1 ,艺术
+http://pic1.kekeke1.info/picss/2017/media/170828/2-1FRQ25249.m3u8
+#EXTINF:-1 ,济南生活
+http://ts2.ijntv.cn/jnsh/sd/live.m3u8
+#EXTINF:-1 ,宁波教育科技
+http://live.cloud.nbtv.cn/live/85c706b2820d454495352f9f3e77f86a?fmt=h264_800k_flv
+#EXTINF:-1 ,宁波新闻综合
+http://live1.cloud.nbtv.cn/live/44dcc3310dcf4278827317c77e87bac5?fmt=h264_500k_flv&trs=hls_ts
+#EXTINF:-1 ,济南都市
+http://ts1.ijntv.cn/jnds/sd/live.m3u8
+#EXTINF:-1 ,新疆-2
+http://202.107.188.230:5002/xj2_hdcq-1.m3u8?token=D170axBe9GsRXvRr_yoongoo&gid=xj2_hdcq
+#EXTINF:-1 ,新疆-10
+http://202.107.188.230:5002/xj10_hdcq-1.m3u8?token=Rvp3Y0f6
